@@ -5,7 +5,7 @@ Code repository for our paper entilted "Memory-oriented Decoder for Light Field 
 + [Dataset] Our light field saliency datset(DUTLF-FS) is part of DUTLF. Our DUTLF-FS mainly rely on **focal stacks** in light field.
 
 ### Datasets
-+ Dataset: DUTLF
++ Dataset: DUTLF-V1
 1. This dataset consists of DUTLF-MV, DUTLF-FS, DUTLF-Depth.
 2. The dataset will be expanded to 3000 about real scenes.
 3. We are working on it and will make it publicly available soon. 
